@@ -1,2 +1,2 @@
-# yone
+# animation in blender
 SHELL SORT
